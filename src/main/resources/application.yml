@@ -1,0 +1,9 @@
+# DataSource Config
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    schema: classpath:db/schema-h2.sql
+    data: classpath:db/data-h2.sql
+    url: mpw:Nd/YvxexH/RWqLhLYZIDJ/QSUQ1mwk2dtYRwlYYbjBU=
+    username: mpw:IweQhqqLd/tEzvT2mbQdMQ==
+    password: mpw:uIeaJ5vWabl8quPth3VlWQ==
