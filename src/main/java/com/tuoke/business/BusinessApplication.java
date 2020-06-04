@@ -9,7 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BusinessApplication {
 
 	public static void main(String[] args) {
-		args[0]="mpw.key=2ecb06a08e06ab82";
 		SpringApplication.run(BusinessApplication.class, args);
 	}
 
